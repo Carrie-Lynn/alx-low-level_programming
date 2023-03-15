@@ -1,1 +1,1 @@
-This is the read me for this subdirectory
+static libraries quiz
